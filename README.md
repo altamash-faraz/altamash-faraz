@@ -23,6 +23,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/altamash-faraz/altamash-faraz/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/altamash-faraz/altamash-faraz/output/pacman-contribution-graph.svg">
 </picture>
+
+###
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=altamash-faraz&show_icons=true&locale=en&layout=compact" alt="altamash-faraz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=altamash-faraz&show_icons=true&locale=en" alt="altamash-faraz" /></p>
