@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=altamash-faraz&label=Profile%20views&color=0e75b6&style=flat" alt="altamash-faraz" /> </p>
 
-- 🌱 I’m currently learning **Django, Flask, React**
-
 - 📫 How to reach me **aarij.altamash2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
