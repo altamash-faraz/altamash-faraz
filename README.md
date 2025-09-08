@@ -12,7 +12,17 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=altamash-faraz&theme=github_dark&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api?username=altamash-faraz&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
                            ![](https://github-readme-stats.vercel.app/api/top-langs/?username=altamash-faraz&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://raw.githubusercontent.com/altamash-faraz/altamash-faraz/output/snake.svg" alt="Snake animation" />
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/altamash-faraz/altamash-faraz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/altamash-faraz/altamash-faraz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/altamash-faraz/altamash-faraz/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=altamash-faraz&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
 
