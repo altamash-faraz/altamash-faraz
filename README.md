@@ -44,7 +44,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **My Tech Arsenal**
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
 
 <div align="center">
 
@@ -229,10 +229,8 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" align="left">
 
 - 🔭 Working on **Real-time Sign Language Translation System** for my final year project
-- 🌱 Deep diving into **Advanced Machine Learning** and **Computer Vision**
 - 💼 Seeking **Full Stack Developer** opportunities for 2025
 - 🤝 Open to collaborate on **Open Source Projects** and **AI/ML innovations**
-- 📚 Currently reading: "Designing Data-Intensive Applications"
 
 <br><br>
 
