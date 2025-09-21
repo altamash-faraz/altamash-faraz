@@ -43,8 +43,15 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Updates every few minutes -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=altamash-faraz&theme=react-dark&area=true" />
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35">
+<!-- Real-time visitor counter -->
+<img src="https://komarev.com/ghpvc/?username=altamash-faraz&label=Live%20Visitors&color=brightgreen" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1000&pause=500&color=A9FEF7&center=true&vCenter=true&repeat=true&width=940&lines=Building+Cool+Stuff+Right+Now!;Coding+24/7;Push+to+Main+Like+a+Boss;Making+Magic+Happen" />
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **My Tech Arsenal**
+
 
 <div align="center">
 
