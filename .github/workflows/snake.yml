@@ -1,1 +1,45 @@
+name: High-Frequency Snake Animation
 
+on:
+  schedule:
+    - cron: "*/5 * * * *"  # Every 5 minutes (MAXIMUM SPEED!)
+  
+  workflow_dispatch:  # Manual trigger
+  push:
+    branches: [ main ]  # Immediate updates on push
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  generate:
+    name: Ultra-Fast Snake Generation
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    permissions:
+      contents: write
+      actions: read
+
+    steps:
+      - name: ⚡ Quick Checkout
+        uses: actions/checkout@v4
+        
+      - name: 🐍 Generate Snake (Optimized)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-light.svg?palette=github-light
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: 🚀 Fast Deploy
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "🐍⚡ Ultra-fast snake update"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
