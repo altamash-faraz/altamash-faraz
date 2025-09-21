@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=altamash-faraz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
   <img src="https://img.shields.io/github/followers/altamash-faraz?label=Followers&style=social" alt="GitHub Badge">
-  <img src="https://img.shields.io/github/stars/altamash-faraz?label=Stars" alt="Stars">
+  <img src="https://img.shields.io/github/stars/altamash-faraz?affiliations=OWNER&label=Total%20Stars" alt="Stars">
 </div>
 
 <br/>
@@ -25,6 +25,9 @@
 - 🎓 **Computer Engineering Student** at **SVKM's Institute of Technology, Dhule**
 - 🚀 **Final Year Project**: Building a **Real-time Sign Language Translation System**
 - 💻 **Passionate Full Stack Developer** with expertise in **Python, React, Django**
+- 🌱 Currently learning **Advanced ML/AI** and **System Design**
+- 🎯 **2025 Goals**: Contribute more to Open Source projects and land a great tech role!
+- 🎪 **Fun Fact**: I can solve a Rubik's cube in under 2 minutes!
 - 📧 **Reach me at**: aarij.altamash2003@gmail.com
 
 <br>
@@ -37,7 +40,7 @@
 <a href="https://linkedin.com/in/altamashfaraz"><img src="https://img.shields.io/badge/-Altamash%20Faraz-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/altamashfaraz_aarij"><img src="https://img.shields.io/badge/-@altamashfaraz_aarij-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:aarij.altamash2003@gmail.com"><img src="https://img.shields.io/badge/-aarij.altamash2003@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/altamash_faraz01/"><img src="https://img.shields.io/badge/-Altamash%20Faraz-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+<a href="https://leetcode.com/u/altamash-faraz/"><img src="https://img.shields.io/badge/-Altamash%20Faraz-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
 </p>
 
 <br>
@@ -149,7 +152,13 @@
 
 <div align="center">
   
-<img src="https://leetcard.jacoblin.cool/altamash_faraz01?theme=unicorn&font=Baloo%202&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/altamash-faraz?theme=unicorn&font=Baloo%202&ext=contest" />
+
+<!-- Alternative LeetCode options if above doesn't work:
+<img src="https://leetcode-stats-six.vercel.app/api?username=altamash-faraz&theme=dark" />
+OR
+<img src="https://leetcode.card.workers.dev/altamash-faraz?theme=dark&font=baloo&extension=null" />
+-->
 
 </div>
 
@@ -162,24 +171,6 @@
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=altamash-faraz&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🌟 **Featured Projects**
-
-<div align="center">
-
-<a href="https://github.com/altamash-faraz/your-awesome-project1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=altamash-faraz&repo=your-awesome-project1&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/altamash-faraz/your-awesome-project2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=altamash-faraz&repo=your-awesome-project2&theme=radical&hide_border=true" />
-</a>
 
 </div>
 
@@ -203,7 +194,39 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/altamash-faraz/altamash-faraz/output/snake.svg" alt="Snake animation" />
+<!-- Snake animation - will work after setting up GitHub Action -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/altamash-faraz/altamash-faraz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/altamash-faraz/altamash-faraz/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/altamash-faraz/altamash-faraz/output/github-contribution-grid-snake.svg">
+</picture>
+
+<!-- Fallback if snake doesn't work -->
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72"/> -->
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌟 **Recent Repositories**
+
+<div align="center">
+
+<!-- These will automatically show your latest repositories -->
+<a href="https://github.com/altamash-faraz?tab=repositories&sort=updated">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altamash-faraz&theme=radical&layout=compact&hide_border=true" />
+</a>
+
+<!-- If you want to pin specific repos, replace the above with:
+<a href="https://github.com/altamash-faraz/your-project-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=altamash-faraz&repo=your-project-1&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/altamash-faraz/your-project-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=altamash-faraz&repo=your-project-2&theme=radical&hide_border=true" />
+</a>
+-->
 
 </div>
 
@@ -228,8 +251,10 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" align="left">
 
 - 🔭 Working on **Real-time Sign Language Translation System** for my final year project
+- 🌱 Deep diving into **Advanced Machine Learning** and **Computer Vision**
 - 💼 Seeking **Full Stack Developer** opportunities for 2025
 - 🤝 Open to collaborate on **Open Source Projects** and **AI/ML innovations**
+- 📚 Currently reading: "Designing Data-Intensive Applications"
 
 <br><br>
 
