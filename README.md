@@ -30,7 +30,7 @@
 
 - 🎓 **Computer Engineering Student** at **SVKM's Institute of Technology, Dhule**
 - 🚀 **Final Year Project**: Building a **Real-time Sign Language Translation System**
-- 💻 **Passionate Full Stack Developer** with expertise in **Python, React, Django**
+- 💻 **Passionate Full Stack Developer** with expertise in **Python, Flask, Django**
 - 📧 **Reach me at**: [aarij.altamash2003@gmail.com](mailto:aarij.altamash2003@gmail.com)
 
 <br>
