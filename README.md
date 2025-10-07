@@ -15,19 +15,23 @@
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
 <a href="https://altamashfaraz.me">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-FF6B6B?style=for-the-badge&logoColor=white&logo=google-chrome" alt="Portfolio"/>
 </a>
- <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> About Me</b>
+</div>
 
-<picture> <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width = 200px></picture>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> About Me</b>
+
+<picture> <img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="200px"></picture>
 
 <br>
 
 - 🎓 **Computer Engineering Student** at **SVKM's Institute of Technology, Dhule**
 - 🚀 **Final Year Project**: Building a **Real-time Sign Language Translation System**
 - 💻 **Passionate Full Stack Developer** with expertise in **Python, React, Django**
-- 📧 **Reach me at**: aarij.altamash2003@gmail.com
+- 📧 **Reach me at**: [aarij.altamash2003@gmail.com](mailto:aarij.altamash2003@gmail.com)
 
 <br>
 
@@ -43,6 +47,9 @@
 </p>
 
 <br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;**My GitHub Stats**
 
 <div align="center">
@@ -69,16 +76,26 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📈 **Live Activity**
+
+<div align="center">
+
 <!-- Updates every few minutes -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=altamash-faraz&theme=react-dark&area=true" />
 
 <!-- Real-time visitor counter -->
 <img src="https://komarev.com/ghpvc/?username=altamash-faraz&label=Live%20Visitors&color=brightgreen" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1000&pause=500&color=A9FEF7&center=true&vCenter=true&repeat=true&width=940&lines=Building+Cool+Stuff+Right+Now!;Coding+24/7;Push+to+Main+Like+a+Boss;Making+Magic+Happen" />
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **My Tech Arsenal**
+</div>
 
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **My Tech Arsenal**
 
 <div align="center">
 
@@ -188,7 +205,6 @@
 </a>
 
 </div>
-
 
 <br>
 
