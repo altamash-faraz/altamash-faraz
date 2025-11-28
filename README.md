@@ -44,7 +44,6 @@
 <a href="https://linkedin.com/in/altamashfaraz"><img src="https://img.shields.io/badge/-Altamash%20Faraz-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/altamashfaraz_aarij"><img src="https://img.shields.io/badge/-@altamashfaraz_aarij-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:aarij.altamash2003@gmail.com"><img src="https://img.shields.io/badge/-aarij.altamash2003@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/altamash_faraz01/"><img src="https://img.shields.io/badge/-Altamash%20Faraz-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
 </p>
 
 <br>
