@@ -4,22 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+It's+Altamash+Faraz;I'm+a+Computer+Engineer;I+love+coding+and+building+things;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
-
-<br/>
-
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=altamash-faraz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
-<img src="https://img.shields.io/github/followers/altamash-faraz?label=Followers&style=social" alt="GitHub Badge">
-<img src="https://img.shields.io/github/stars/altamash-faraz?label=Stars" alt="Stars">
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-<a href="https://altamashfaraz.me">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-FF6B6B?style=for-the-badge&logoColor=white&logo=google-chrome" alt="Portfolio"/>
 </a>
 </div>
 
@@ -42,32 +27,12 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/altamashfaraz"><img src="https://img.shields.io/badge/-Altamash%20Faraz-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/altamashfaraz_aarij"><img src="https://img.shields.io/badge/-@altamashfaraz_aarij-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:aarij.altamash2003@gmail.com"><img src="https://img.shields.io/badge/-aarij.altamash2003@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;**My GitHub Stats**
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=altamash-faraz&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=altamash-faraz&theme=radical&hide_border=true" />
-
-</td>
-</tr>
-</table>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altamash-faraz&theme=radical&layout=compact&hide_border=true&langs_count=8&card_width=500" />
 
@@ -76,20 +41,6 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📈 **Live Activity**
-
-<div align="center">
-
-<!-- Updates every few minutes -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=altamash-faraz&theme=react-dark&area=true" />
-
-<!-- Real-time visitor counter -->
-<img src="https://komarev.com/ghpvc/?username=altamash-faraz&label=Live%20Visitors&color=brightgreen" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1000&pause=500&color=A9FEF7&center=true&vCenter=true&repeat=true&width=940&lines=Building+Cool+Stuff+Right+Now!;Coding+24/7;Push+to+Main+Like+a+Boss;Making+Magic+Happen" />
-
-</div>
 
 <br>
 
@@ -141,64 +92,7 @@
 </p>
 
 </div>
-
 <br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=altamash-faraz&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🌟 **Featured Projects**
-
-<div align="center">
-
-<a href="https://github.com/altamash-faraz/visiOCR">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=altamash-faraz&repo=visiOCR&theme=radical&hide_border=true" />
-</a>
-
-<a href="https://github.com/altamash-faraz/signwave-meeting-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=altamash-faraz&repo=votepro&theme=radical&hide_border=true" />
-</a>
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📈 **Contribution Graph**
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=altamash-faraz&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafe&area=true&hide_border=true" />
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🐍 **Contribution Snake**
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/altamash-faraz/altamash-faraz/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
-<br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💡 **Random Dev Quote**
@@ -212,19 +106,6 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎯 **Current Focus**
-
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" align="left">
-
-- 🔭 Working on **Real-time Sign Language Translation System** for my final year project
-- 💼 Seeking **Full Stack Developer** opportunities for 2025
-- 🤝 Open to collaborate on **Open Source Projects** and **AI/ML innovations**
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div align="center">
 
 ## 💖 **Thank you for visiting my profile!**
